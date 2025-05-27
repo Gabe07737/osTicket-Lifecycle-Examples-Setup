@@ -32,10 +32,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Intake</h3>
 <br />
 <p>
-  User Ken creates a ticket:
+  User Karen creates a ticket:
 </p>
 <p>
-  <img src="https://i.imgur.com/ewueu9b.png: height="75%" width="100%" alt="Open a Ticket"/>
+  <img src="https://github.com/user-attachments/assets/4b7ee1ae-7ae0-451a-965d-f67b0626622b" height="75%" width="100%" alt="Open a Ticket"/>
 </p>
 <br />
 <br />
@@ -45,7 +45,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John Doe logs in.
 </p>
 <p>
-  <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
+  <img src="https://github.com/user-attachments/assets/de00db06-d667-42da-a33d-d7acd0be8c34" height="75%" width="100%" alt="Support agent login"/>
 </p>
 <br />
 <br />
@@ -58,7 +58,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   He makes sure to leave a proper message:
 </p>
 <p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
+  <img src="https://github.com/user-attachments/assets/fa31e7a1-72c0-499b-ac09-659b653445d0" height="75%" width="100%" alt="Communication"/>
+  <img src="https://github.com/user-attachments/assets/46a33098-9095-44f4-9163-9e1a04b3b4b8" height="75%" width="100%" alt="Communication"/>
 </p>
 <br />
 <br />
@@ -68,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   System Administrator agent Jane Doe logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
+  <img src="https://github.com/user-attachments/assets/6f810080-abe7-4641-8e6f-c912113280fb" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
   Agent Jane works the issue and communicates back to agent John.
@@ -77,7 +78,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   She also makes sure to switch the status of the issue from open to resolved:
 </p>
 <p>
-  <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://github.com/user-attachments/assets/8a767362-6e8a-44ea-b96e-828412e8ac0a" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <br />
 <br />
@@ -87,7 +88,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
 </p>
 <p>
-  <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://github.com/user-attachments/assets/aee389aa-81bd-4e58-a61d-0718efe5dccd" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <br />
 <br />
